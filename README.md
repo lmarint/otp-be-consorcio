@@ -15,6 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# Creación Proyecto
+
+  ## Paso 1
+  flutter create . --project-name consorcio_otp
+  ## Paso 2
+  flutter pub get
+
 # Comandos para correr en ambiente
 
 # Desarrollo
